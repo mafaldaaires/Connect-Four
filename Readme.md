@@ -20,4 +20,4 @@ This search algorithm depends on time, so if you want to change the time limit f
 For Monte Carlo, you can also change the way it chooses its moves. By default, the choice is based on the UCB value of the children of the current move. But, if you want to, you can make this choice based on the number of visits using the "play_according_to_visits()" function (changeing "Search.play_according_to_UCT()" with "Search.play_according_to_visits() where is written "#change function"). However, through the tests we've done, we've understood that Monte Carlo performs better with UCB.
 
 
-you will allways be the first player
+You will always be the first player.
