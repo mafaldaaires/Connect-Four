@@ -1,6 +1,6 @@
-# Connect_ Four
+# Connect-Four
 
-#### To play ConnectedFour against an AI opponent, first choose a search algorithm: minimax, alphabeta_pruning, or MCTS algorithm.
+#### To play Connect-Four against an AI opponent, first choose a search algorithm: minimax, alphabeta_pruning, or MCTS algorithm.
 
 #### To play with minimax:
 Make sure you have the files Game.py and minimax.py.
