@@ -1,4 +1,4 @@
-# Connected_ Four
+# Connect_ Four
 
 #### To play ConnectedFour against an AI opponent, first choose a search algorithm: minimax, alphabeta_pruning, or MCTS algorithm.
 
